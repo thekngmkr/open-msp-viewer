@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<?xml-stylesheet version="1.0" type="text/xsl" href="msp-gantt.xsl"?>
+<?xml-stylesheet version="1.0" type="text/xsl" href="../xslt/msp-gantt.xsl"?>
 <Project xmlns="http://schemas.microsoft.com/project">
     <Name>01145024.xml</Name>
     <Title>Project Management Workploan</Title>
